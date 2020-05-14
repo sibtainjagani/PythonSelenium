@@ -3,12 +3,22 @@
 # Packages Required Windows or OS Dependent Chrome Driver & pip install -U selenium (Selenium Package)
 # Get Selenium Current stable release: ChromeDriver 81.0.4044.138 From:: https://chromedriver.chromium.org/
 # Interacting Basic Demo 1st Form Field Message & Summation Field Using XPath & Css Selector
+# Using Explicit & Implicit Wait For The Web Pages That Loads AJAX OR NAGGING SCREENS
 # Import Selenium Web Driver From Selenium Package
 from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 # Init Web Driver Chrome
 driver = webdriver.Chrome()
 # Get The URL TO Browse
 driver.get('https://www.seleniumeasy.com/test/basic-first-form-demo.html')
+# Wait The Explicit Wait 5s
+wait = WebDriverWait(driver,5)
+# Check For Nagging Screen To Appear and Close it By Using Wait & Expected Condition Check
+nagging_screen = wait.until(EC.element_to_be_clickable((By.XPATH,'//*[@id="at-cv-lightbox-button-holder"]/a[2]')))
+# Click The Close Bttn
+nagging_screen.click()
 # Find The Message Field Using Xpath
 input_message_field = driver.find_element_by_xpath('//*[@id="user-message"]')
 # Input The Message in This Field
