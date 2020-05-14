@@ -1,0 +1,91 @@
+1589457116134	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile0RvAmZ"
+1589457117620	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589457118577	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589457118577	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589457118578	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589457118578	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1589457124785	Marionette	INFO	Listening on port 16542
+1589457124934	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+1589457155313	Marionette	INFO	Stopped listening on port 16542
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589457166082	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilegnj0Sm"
+1589457167441	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589457168352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589457168352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589457168352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589457168353	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1589457173474	Marionette	INFO	Listening on port 16756
+1589457173520	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589457215993	Marionette	INFO	Stopped listening on port 16756
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589457228125	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileUzA5FH"
+1589457229341	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589457230266	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589457230266	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589457230266	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589457230267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1589457235539	Marionette	INFO	Listening on port 16942
+1589457235716	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+1589457310664	Marionette	INFO	Stopped listening on port 16942
+1589457324525	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilePQpJ65"
+1589457325676	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589457326535	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589457326535	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589457326535	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589457326536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1589457331821	Marionette	INFO	Listening on port 17334
+1589457331884	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1589457662546	Marionette	INFO	Stopped listening on port 17334
+rs\\HP\\AppData\\Local\\Temp\\rust_mozprofiles1HE5i"
+1589457496509	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589457497512	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589457497513	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589457497513	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589457497513	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1589457502812	Marionette	INFO	Listening on port 17814
+1589457503323	Marionette	WARN	TLS certificate errors will be ignored for this session
