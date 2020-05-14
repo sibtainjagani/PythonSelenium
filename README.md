@@ -1,8 +1,8 @@
 # Python Selenium Learning Projects
-Objective is To Learn Python Web Automation Using Selenium Using Beginning Skills To Intermediate Skills
-PyTest
-Unit Tests
-Reference: https://www.linkedin.com/learning/using-python-for-automation/automating-web-browsing?u=2212217
+*Objective is To Learn Python Web Automation Using Selenium Using Beginning Skills To Intermediate Skills
+*PyTest
+*Unit Tests
+*Reference: https://www.linkedin.com/learning/using-python-for-automation/automating-web-browsing?u=2212217
 # Tools Required
 * Pycharm Community Edition IDE
   * https://www.jetbrains.com/pycharm/download/
