@@ -22,7 +22,7 @@ nagging_screen.click()
 # Find The Message Field Using Xpath
 input_message_field = driver.find_element_by_xpath('//*[@id="user-message"]')
 # Input The Message in This Field
-input_message_field.send_keys('Hello Selenium Automation')
+input_message_field.send_keys('Hello Selenium Automation 2')
 # Get Button Field For Click using Xpath
 input_message_field_bttn = driver.find_element_by_xpath('//*[@id="get-input"]/button')
 # Click the input_message_field_bttn
@@ -30,7 +30,7 @@ input_message_field_bttn.click()
 # Getting Sum Input Field 1 Css Selector
 input_sum_1 = driver.find_element_by_css_selector('#sum1')
 # Now Input Sum Field 1 Css Selector
-input_sum_1.send_keys('10')
+input_sum_1.send_keys('12')
 # Getting Sum Input Field 2
 input_sum_2 = driver.find_element_by_css_selector('#sum2')
 # Now Input Sum Field 2 Css Selector
